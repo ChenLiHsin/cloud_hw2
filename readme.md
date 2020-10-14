@@ -1,0 +1,2 @@
+# cloud_hw2
+ Provide the following functionalities: (a) boxfilter (b) unsharp masking (c) bilateral filtering (d) Create a color image with salt-and-pepper noises (note that in color images, the salt-and-pepper noises are no longer black/white. They should have values in pure R, G, or B). Use a median filter that tries to filter out the noises. Note: you can use built-in functions provided by opencv. https://docs.opencv.org/4.4.0/d4/d86/group__imgproc__filter.html Do not include the opencv.js in the file you upload.
